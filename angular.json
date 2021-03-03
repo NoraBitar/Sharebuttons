@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sharebuttons"
+    }
+  },
+  "defaultProject": "sharebuttons",
+  "cli": {
+    "analytics": false
+  }
 }
